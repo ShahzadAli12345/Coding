@@ -8,4 +8,4 @@ Password:  V5
 
 It can be simply run on Code Blocks or Dev Cpp.
 
-I Used the Doubly Linked List in this Project. Which is the term of Dta Structures.
+I Used the Doubly Linked List in this Project. Which is the term of Data Structures.
