@@ -5,3 +5,7 @@ This is locked programe and this user id and password are given below and also m
 User Id:   Shahzad Ali
 
 Password:  V5
+
+It can be simply run on Code Blocks or Dev Cpp.
+
+I Used the Doubly Linked List in this Project. Which is the term of Dta Structures.
